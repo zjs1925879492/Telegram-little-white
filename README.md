@@ -6,7 +6,7 @@ Android平台[下载链接](https://telegram.softonic.cn/android "下载链接")
 
 2. 连接到telegram<br>
 启动VPN或使用代理（推荐启用VPN，不用过多设置）
-<br>代理设置在Android端右上角/Windows端左下角，盾状图标，像这个—>![3Mwme.png](https://wx1.sbimg.cn/2020/08/13/3Mwme.png) 请点击
+<br>代理设置在Android端右上角/Windows端左下角，盾状图标，像这个—>![3Mwme.png](https://img-blog.csdnimg.cn/20200813204312232.png) 请点击
 <br>选择启用自定义代理
 <br>选择mtproto代理
 <br>server里填写：sg3.rockets.cool
@@ -18,7 +18,7 @@ Android平台[下载链接](https://telegram.softonic.cn/android "下载链接")
 <br>请准备一个能接收短信的手机号，根据要求填写手机号和验证码
 <br>填写用户名，姓名等
 
-<br>4. 汉化
+4. 汉化
 <br>Android端点击上方搜索，搜索@zh_CN
 <br>Windows端点击左侧上方搜索框搜索@zh_CN
 <br>ios没用过！不知道
