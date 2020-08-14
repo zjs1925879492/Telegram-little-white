@@ -7,7 +7,8 @@ Android平台[下载链接](https://telegram.softonic.cn/android "下载链接")
 2. 连接到telegram<br>
 启动VPN或使用代理（推荐启用VPN，不用过多设置）
 <br>代理设置在Android端右上角/Windows端左下角，盾状图标，像这个—>![3Mwme.png](https://img-blog.csdnimg.cn/20200813204312232.png) 请点击
-<br>选择启用自定义代理
+<br>代理设置Android端若不显示则点击右上角，Windows端在左下角
+<br>选择启用自定义代理/添加代理
 <br>选择mtproto代理
 <br>server里填写：sg3.rockets.cool
 <br>port里填写：2333
