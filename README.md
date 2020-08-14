@@ -32,3 +32,72 @@ Android平台[下载链接](https://telegram.softonic.cn/android "下载链接")
 
 7. tg内含有黄色，政治，暴恐，暗网等消息，请确认您有强大的自制力，对国家的忠诚之心，tg给您带来的后果将与本人无关，本文仅做教程，不要做违法的事情，请您自重
 
+## 常用群组！
+
+------------
+
+我们为你整理了一些你可能会用到的群组
+
+- **代理设置&VPN群**
+1. 老王VPN用户群：
+Describe：[加群链接](https://t.me/wangvpn_users "加群链接")
+
+2. 猴王VPN用户群：
+Describe：[加群链接](https://t.me/houwang_users "加群链接")
+
+3. 免费TG代理群：
+Describe：免费，群里会经常更新代理，点击按钮即可连接。[加群链接](https://t.me/mianfeidaili "加群链接")
+
+4. 火箭酷TG代理群：
+Describe：免费，代理虽少但长期可用，点击按钮即可连接。[加群链接](https://t.me/Rocketcool "加群链接")
+
+5. MTPROTO公益TG代理群：
+Describe：免费，有时更新代理，点击链接即可连接。[加群链接](https:t.me/onessr "加群链接")
+
+- **太极模块交流群（交流群不提供下载模块链接，请自行查看群公告）**
+1. QNotified交流群
+Describe：[加群链接](https://t.me/QNotifiedChat "加群链接")
+
+2. ColorQQ交流群
+Describe：[加群链接](https://t.me/ColorQQ2 "加群链接")
+
+3. QQ复读机交流群
+Describe：[加群链接](https://t.me/QQRepeater_Group "加群链接")
+
+4. fkzhang模块交流群
+Describe：[加群链接](https://t.me/fkzhang_wx "加群链接")
+
+5. XAutoDaily交流群
+Describe：[加群链接](https://t.me/XAutoDailyChat "加群链接")
+
+- 公共自搜群频道
+1. [加群链接](https://souqun520 "加群链接")
+
+2. [加群链接](https://t.me/dh237 "加群链接")
+
+*PS：搜群可能会搜到广告，暴力，黄色，反动等内容，请注意辨别与自重*
+
+- 日常交流群
+1. 生产龙王无限公司TG办事处
+Describe：在TG的分群，群主为假魔尊，群内有各种好玩的机器人。[加群链接](https://t.me/shengchanlongwangwuxiangongsi "加群链接")
+
+2. 王者荣耀群（非官方，请勿轻信广告）
+Describe：并不是官方的交流群。[加群链接](https://t.me/chinawzry "加群链接")
+
+3. Minecraft中文交流群（非官方，请勿轻信广告）
+Describe：我的世界中文交流群。[加群链接](https://t.me/Minecraft_Chinese "加群链接")
+
+4. Python中文群（非官方）
+Describe:人生苦短，我用Python。[加群链接](https://t.me/pythonzh "加群链接")
+
+5. 酷安&apkpure群
+Describe：[加群链接](https://t.me/coolapk001 "加群链接")
+
+6. 破解软件群
+Describe：[加群链接](https://t.me/funapk "加群链接")
+
+*PS：在telegram上下载的软件一定要先查杀毒，若报毒则尽量不要安装，可能带来风险，若您自行安装带来的后果与本人无关*
+
+本人的[TG链接](https://t.me/CHANGANXIAOXIANG "TG链接")
+QQ：[1925879492](https://res.abeim.cn/api-qq?qq=1925879492)
+若发现上述链接失效或您有更多推荐请与我联系
