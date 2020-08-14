@@ -52,7 +52,7 @@ Describe：免费，群里会经常更新代理，点击按钮即可连接。[�
 Describe：免费，代理虽少但长期可用，点击按钮即可连接。[加群链接](https://t.me/Rocketcool "加群链接")
 
 5. MTPROTO公益TG代理群：
-Describe：免费，有时更新代理，点击链接即可连接。[加群链接](https:t.me/onessr "加群链接")
+Describe：免费，有时更新代理，点击链接即可连接。[加群链接](https://t.me/onessr "加群链接")
 
 - **太极模块交流群（交流群不提供下载模块链接，请自行查看群公告）**
 1. QNotified交流群
